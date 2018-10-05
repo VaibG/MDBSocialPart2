@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../MDBSocialPart2/Controller">
+   </FileRef>
+   <FileRef
+      location = "group:../MDBSocialPart2/Model">
+   </FileRef>
+   <FileRef
+      location = "group:../MDBSocialPart2/Views">
+   </FileRef>
+   <FileRef
       location = "self:MDBSocialPart2.xcodeproj">
    </FileRef>
 </Workspace>
